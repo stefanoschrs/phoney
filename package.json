@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stefanoschrs/phony.git"
+    "url": "git+https://github.com/stefanoschrs/phoney.git"
   },
   "author": "Stefanos Chrs <root@stefanoschrs.com> (https://stefanoschrs.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stefanoschrs/phony/issues"
+    "url": "https://github.com/stefanoschrs/phoney/issues"
   },
-  "homepage": "https://github.com/stefanoschrs/phony#readme",
+  "homepage": "https://github.com/stefanoschrs/phoney#readme",
   "dependencies": {
     "express": "^4.17.1"
   },
