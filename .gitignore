@@ -1,3 +1,5 @@
+.openode
+
 modules/*
 !modules/example.js
 

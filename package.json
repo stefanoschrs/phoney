@@ -18,5 +18,8 @@
   "homepage": "https://github.com/stefanoschrs/phony#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "openode": "^2.0.14"
   }
 }
