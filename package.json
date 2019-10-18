@@ -1,0 +1,22 @@
+{
+  "name": "phoney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanoschrs/phony.git"
+  },
+  "author": "Stefanos Chrs <root@stefanoschrs.com> (https://stefanoschrs.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanoschrs/phony/issues"
+  },
+  "homepage": "https://github.com/stefanoschrs/phony#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

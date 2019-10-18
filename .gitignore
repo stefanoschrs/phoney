@@ -1,0 +1,4 @@
+modules/*
+!modules/example.js
+
+node_modules
