@@ -30,3 +30,5 @@
     # Well.. That's it :)
     ```
 
+### Tips
+- If you are using jetbrains for development and openode for hosting add `.idea` to `.openodeignore`
