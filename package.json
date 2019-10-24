@@ -1,9 +1,10 @@
 {
   "name": "phoney",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "prestart": "[ -f modules/extra-packages.sh ] && sh modules/extra-packages.sh",
     "start": "node server.js"
   },
   "repository": {
